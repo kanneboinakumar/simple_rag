@@ -1,0 +1,5 @@
+langchain_community
+pymupdf
+langchain
+langchain-google-genai
+faiss-cpu
